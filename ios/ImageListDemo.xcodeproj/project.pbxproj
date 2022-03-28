@@ -114,7 +114,6 @@
 				F88CDAE19C54F11A5FA2DE4B /* Pods-ImageListDemo-ImageListDemoTests.debug.xcconfig */,
 				3FE520BB1971670A06A6E59B /* Pods-ImageListDemo-ImageListDemoTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
